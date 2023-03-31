@@ -1,6 +1,6 @@
-.idea/**
-.ipynb_checkpoints/**
-.jukit/**
-.virtual_documents/**
+.idea/
+.ipynb_checkpoints/
+.jukit/
+.virtual_documents/
 .DS_Store
 
